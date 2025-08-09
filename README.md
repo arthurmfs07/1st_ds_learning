@@ -1,0 +1,1 @@
+first studies on ml topics, done through my first university lessons long time ago. Thought it would be interesting to upload it here, so in the future I can see how much I imporved/ learned from beginner mistakes in data science frameworks
